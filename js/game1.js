@@ -6,7 +6,7 @@ var gInterval
 
 
 function onInit() {
-    gBalloons = creatBallons(5)
+    gBalloons = creatBallons(20)
     renderBalloons()
 }
 
